@@ -18,9 +18,9 @@ This is a Chat GPT clone built with Next.js, TypeScript, Tailwind CSS, and the O
 
 ## Acknowledgements
 
-[Next.js](https://nextjs.org/)
-[TypeScript](https://www.typescriptlang.org/)
-[Tailwind CSS](https://tailwindcss.com/)
-[OpenAI API](https://openai.com/)
-[Vercel](https://vercel.com/)
-[Sonny Sangha](https://www.linkedin.com/in/saajansangha/?originalSubdomain=uk)
+-   [Next.js](https://nextjs.org/)
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [OpenAI API](https://openai.com/)
+-   [Vercel](https://vercel.com/)
+-   [Sonny Sangha](https://www.linkedin.com/in/saajansangha/?originalSubdomain=uk)
