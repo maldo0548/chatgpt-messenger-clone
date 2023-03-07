@@ -1,27 +1,26 @@
-# Next.js + Tailwind CSS Example
+# ChatGPT Clone with Next13, NextAuth, TypeScript, Tailwind, Firebase/Firestore, and OpenAI API
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a Chat GPT clone built with Next.js, TypeScript, Tailwind CSS, and the OpenAI API. It uses GPT-3, a natural language processing model developed by OpenAI, to generate human-like responses to user messages.
 
-## Deploy your own
+## Features
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+-   Authentication with Google using NextAuth
+-   Real-time chat using Firebase/Firestore
+-   AI-powered chatbot using OpenAI's GPT-3 model
+-   Responsive design with Tailwind CSS
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Deployment & Usage
 
-## How to use
+-   Open your browser and navigate to https://chatgpt-messenger-clone-mu.vercel.app/.
+-   Click to Sign in with a Google Acount.
+-   Type a message in the input field and press Enter or click the Send button.
+-   The Chat GPT clone will generate a response to your message using the OpenAI API and display it in the chat window.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Acknowledgements
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[Next.js](https://nextjs.org/)
+[TypeScript](https://www.typescriptlang.org/)
+[Tailwind CSS](https://tailwindcss.com/)
+[OpenAI API](https://openai.com/)
+[Vercel](https://vercel.com/)
+[Sonny Sangha](https://www.linkedin.com/in/saajansangha/?originalSubdomain=uk)
